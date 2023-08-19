@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Profile!
 
-Hello there! 👋 I'm [AleksandraZjawiony], and I'm passionate about exploring and sharing exciting tech topics on my blog [HoloFusionX](https://www.holofusionx.com). At HoloFusionX, I dive into a variety of subjects, including blockchain, futuristic technologies, and more. 
+Hello there! 👋 I'm Aleksandra Zjawiony, and I'm passionate about exploring and sharing exciting tech topics on my blog [HoloFusionX](https://www.holofusionx.com). At HoloFusionX, I dive into a variety of subjects, including blockchain, futuristic technologies, and more. 
 
 On this GitHub profile, you'll find a collection of code snippets, projects, and repositories that complement the content on my blog. These repositories contain various codes and implementations related to the topics I discuss, giving you hands-on experience and deeper insights into the concepts.
 
